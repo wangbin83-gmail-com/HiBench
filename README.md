@@ -139,3 +139,5 @@ sort / terasort / wordcount / dfsioe / bayes / kmeans
 verified upon apache hadoop 2.0.5-alpha
 
 you might need to tweak a little bit for the other versions, since before release, Hadoop 2.0 API do change a lot.
+
+just test ssh-add
